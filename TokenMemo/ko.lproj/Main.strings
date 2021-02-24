@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Remove All"; ObjectID = "13y-Qd-v0v"; */
+"13y-Qd-v0v.normalTitle" = "Remove All";
+
+/* Class = "UINavigationItem"; title = "새 메모"; ObjectID = "43d-tX-Y3M"; */
+"43d-tX-Y3M.title" = "새 메모";
+
+/* Class = "UIButton"; normalTitle = "저장하기"; ObjectID = "9A1-Ei-Eed"; */
+"9A1-Ei-Eed.normalTitle" = "저장하기";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "Q6n-kT-7Xl"; */
+"Q6n-kT-7Xl.title" = "Root View Controller";
+
+/* Class = "UITextField"; placeholder = "제목을 입력해주세요"; ObjectID = "Xr4-LV-ZZh"; */
+"Xr4-LV-ZZh.placeholder" = "제목을 입력해주세요";
+
+/* Class = "UIButton"; normalTitle = "추가"; ObjectID = "ZBb-po-K3m"; */
+"ZBb-po-K3m.normalTitle" = "추가";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "f1O-eb-gyA"; */
+"f1O-eb-gyA.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
